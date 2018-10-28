@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "testapp",
+    "packageName": "io.projectone.application",
+    "packageFolder": "io/projectone/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "pl",
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.5.0",
+    "jwtSecretKey": "NDJmYzgzYzg5MzNjOGNiNjEyNzZlNzhhZTBiNmFkNGRiMzI2Njk2YzlmZmRlZDQ1MzY2NDlhMGM4ZjY5ZmE4MWJkYTc2NDdkMzY2ZjIzZTE5MzI4OGE5YWUxYzkyNzIzODU5YWMwMjJjZWYwY2JiZjBiMWEyOGU0NWE5ZDU3NzE="
+  },
+  "git-provider": "GitHub",
+  "git-company": "LukszJankowski",
+  "repository-name": "testapp-rep"
+}
